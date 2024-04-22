@@ -29,6 +29,9 @@ export default function Secone() {
                   <span>
                     Start your journey
                   </span>
+                  {/* <span>
+                    Start your journey
+                  </span> */}
                 </a>
               </Box>
             </Box>
